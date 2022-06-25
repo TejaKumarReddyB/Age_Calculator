@@ -94,7 +94,7 @@
     
   }
 
- @media (min-width: 50px) {
+ @media (min-width: 700px) {
   .container {
     width: auto;
   }
