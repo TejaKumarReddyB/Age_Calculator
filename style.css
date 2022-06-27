@@ -39,7 +39,7 @@
     margin: 0px 0px 10px 10px;
     box-shadow: 0 15px 25px rgba(0,0,0,0.3);
   }
-  input, label{
+  input,button, label{
     
     font-weight: 700;
     margin-left: 10px;
@@ -51,7 +51,7 @@
     width: 30%;
     text-align: center;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 5px;
     background-color: #00FF00;
     color: black;
     border: none;
