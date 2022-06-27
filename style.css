@@ -51,7 +51,7 @@
     width: auto;
     text-align: center;
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 500px;
     background-color: #00FF00;
     color: black;
     border: none;
@@ -60,7 +60,7 @@
     cursor: pointer;
    box-shadow: 0 15px 25px rgba(0,0,0,0.3);
     font-size: 20px;
-      position: relative;
+      
       padding-left: 30px;
   }
 
