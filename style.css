@@ -48,10 +48,10 @@
   }
   
   button{
-    width: 50%;
+    width: 30%;
     text-align: center;
     margin-top: 50px;
-    margin-left: 500px;
+    margin-left: 50px;
     background-color: #00FF00;
     color: black;
     border: none;
@@ -61,7 +61,7 @@
    box-shadow: 0 15px 25px rgba(0,0,0,0.3);
     font-size: 20px;
       
-      padding-left: 30px;
+    
   }
 
 
