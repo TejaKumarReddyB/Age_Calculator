@@ -100,13 +100,28 @@
     width: auto;
   }
 
-  button {
+  /*button {
     position: relative;
   }
 
   #given_date {
       display: flex;
     margin-left: 25px;
+  }*/
+     
+     label, input {
+     display: flex;
+     align-items: center;
+margin-left: 20px;
+   }
+   #given_date input{
+     margin-left: 10px;
+   }
+
+   
+  button {
+   
+    margin-right: 115px;
   }
 }
 
